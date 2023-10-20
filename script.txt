@@ -1,0 +1,7 @@
+Init
+Creates a new repo
+ 
+Creates a new hidden .git file
+ 
+
+
