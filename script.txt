@@ -42,6 +42,10 @@ git CHECKOUT
 the checkout command allows me to compare whether the node I’m working on is the same or different from the main directory in this case my branch is up to date with the origin/main repository.
  
 
+Git clone
+The git clone command does exactly what it’s name is, it clones the repository from the cloud onto your machine that you are using, using this allows you to keep working on your repository from any machine you want
+ 
+
 
 
 
