@@ -46,6 +46,10 @@ Git clone
 The git clone command does exactly what it’s name is, it clones the repository from the cloud onto your machine that you are using, using this allows you to keep working on your repository from any machine you want
  
 
+Git log
+The git log command allows you to view all previous commits that have been done by a user in the repository, you can use this to search for and view specific changes.
+ 
+
 
 
 
